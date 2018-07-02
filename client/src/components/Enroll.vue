@@ -1,6 +1,6 @@
 <template>
   <v-layout column>
-    <v-flex xs6 offset-xs3>
+    <v-flex xs10 offset-xs1>
       <div class="white elevation-2">
         <v-toolbar flat dense class="red darken-4">
           <v-toolbar-title>Enroll</v-toolbar-title>
